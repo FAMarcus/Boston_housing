@@ -1,10 +1,26 @@
 # Udacity
 ## Machine Learning Nanodegree
+O aprendizado de máquina representa uma evolução fundamental nos campos da ciência da computação, análise de dados, engenharia de software e inteligência artificial.
+
+Este programa ensina como se tornar um engenheiro de aprendizado de máquina e aplicará modelos preditivos a conjuntos de dados massivos em campos como finanças, saúde, educação e muito mais.
 
 **Co-Created by:**
 - Kaggle
 
 ## Projetos
+
+### [Titanic Survival Exploration](https://github.com/FAMarcus/titanic_survival_exploration)
+
+**Conceitos básicos de Machine Learning**
+
+Criar uma função de decisão para tentar prever os sobreviventes do desastre de 1912 do Titanic baseado nos atributos dos passageiros, como sexo e idade. Começa com um algoritmo simples e aumenta sua complexidade até conseguir prever os sobreviventes com 80% de acurácia.
+
+### [Explorando Chicago Bikeshare](https://github.com/FAMarcus/Chicago_bikeshare)
+
+**Estatística Descritiva**
+
+Neste projeto, o Python é utilizado para explorar dados relacionados aos sistemas de compartilhamento de bicicletas nas três maiores cidades dos Estados Unidos: Chicago, Nova Iorque e Washington. O código escrito importa dados e responde a perguntas interessantes sobre eles, por meio da computação de estatísticas descritivas.
+
 
 ### [Prevendo o preço dos imóveis residenciais em Boston.](https://github.com/FAMarcus/MLND_Boston_housing)
 
