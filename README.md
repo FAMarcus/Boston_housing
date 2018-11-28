@@ -8,6 +8,7 @@ Este programa ensina como se tornar um engenheiro de aprendizado de máquina e a
 - Kaggle
 
 ## Projetos:
+Esta seção apresenta os projetos que desenvolvi no curso da Udacity. 
 
 ### [Prevendo o preço dos imóveis residenciais em Boston.](https://github.com/FAMarcus/Boston_housing)
 
@@ -34,3 +35,8 @@ Criar uma função de decisão para tentar prever os sobreviventes do desastre d
 ### Classificador de imagens
 
 ## Laboratório 
+
+Nesta seção são alocados programas em que se aplicam os conceitos de Machine Learning e Análise de dados.
+
+### [Gradiente de Descida (Gradient Descent)](https://github.com/FAMarcus/Udacity)
+
