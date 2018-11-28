@@ -29,8 +29,8 @@ Projeto avaliado pela Udacity.
 
 Criar uma função de decisão para tentar prever os sobreviventes do desastre de 1912 do Titanic baseado nos atributos dos passageiros, como sexo e idade. Começa com um algoritmo simples e aumenta sua complexidade até conseguir prever os sobreviventes com 80% de acurácia.
 
-##Projetos a concluir
+## Projetos a concluir
 
 ### Classificador de imagens
 
-##Laboratório 
+## Laboratório 
